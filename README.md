@@ -1,3 +1,5 @@
+copy and exercise
+
 # vue-test-38
 
 > A Vue.js project
